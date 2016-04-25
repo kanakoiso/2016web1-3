@@ -4,5 +4,5 @@
 <br>
 </head>
 <body>
-<img src="/image/地元写真.JPG" alt="写真">
+<img src="/image/地元写真.JPG" alt="写真"/>
 </body>
